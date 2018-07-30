@@ -1,36 +1,10 @@
 # clojure-noob
 
-FIXME: description
+Project is my personal tries to understand and study how to program on clojure  
 
-## Installation
+## Description
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+If you are interesting in some my comments and copypastes of clojure from other sites...
+then just read everything. Order is next:
+- I started from syntax understanding, sources are in clojure_noob.syntax package
+- next I decided to use tests to continue check opportunities of language
