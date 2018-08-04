@@ -17,5 +17,10 @@ from other sites... then just read it. Order is next:
 - next I decided to use tests to continue check opportunities of language  
 I think it is perfect when standard sdk has tests internally. So will use them. 
 First entries I decided to make based on some task which could show that I understood 
-syntax and could now write something (see description)    
+syntax and could now write something (see description)  
+  
 
+## End
+
+I seems that I didn't understand main concepts of language and why and when I 
+should use it. So after finishing task on work I stopped to spend time to study
